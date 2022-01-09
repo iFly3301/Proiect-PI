@@ -1,0 +1,35 @@
+C:\Users\presn\Downloads\proiecte\test\test\bin\Debug\test.exe
+C:\Users\presn\Downloads\proiecte\test\test\bin\Debug\test.pdb
+C:\Users\presn\Downloads\proiecte\test\test\obj\x86\Debug\test.Form1.resources
+C:\Users\presn\Downloads\proiecte\test\test\obj\x86\Debug\test.Properties.Resources.resources
+C:\Users\presn\Downloads\proiecte\test\test\obj\x86\Debug\test.csproj.GenerateResource.Cache
+C:\Users\presn\Downloads\proiecte\test\test\obj\x86\Debug\test.exe
+C:\Users\presn\Downloads\proiecte\test\test\obj\x86\Debug\test.pdb
+C:\Users\presn\Downloads\proiecte\test\test\obj\x86\Debug\test.Login.resources
+C:\Users\presn\Downloads\proiecte\test\test\bin\Debug\test.exe.config
+C:\Users\presn\Downloads\proiecte\test\test\obj\x86\Debug\test.Panel.resources
+C:\Users\presn\Downloads\proiecte\test\test\obj\x86\Debug\test.Register.resources
+C:\Users\presn\Downloads\proiecte\test\test\obj\x86\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\presn\Downloads\proiecte\test\test\bin\Debug\itextsharp.dll
+C:\Users\presn\Downloads\proiecte\test\test\obj\x86\Debug\test.Cumparare.resources
+C:\Users\presn\Downloads\proiecte\test\test\obj\x86\Debug\test.Redactare.resources
+C:\Users\Razvan\Desktop\Atestat Amza Gabriela (2)\test\test\bin\Debug\test.exe.config
+C:\Users\Razvan\Desktop\Atestat Amza Gabriela (2)\test\test\obj\x86\Debug\test.exe
+C:\Users\Razvan\Desktop\Atestat Amza Gabriela (2)\test\test\obj\x86\Debug\test.pdb
+C:\Users\Razvan\Desktop\buna\test\test\bin\Debug\test.exe.config
+C:\Users\Razvan\Desktop\buna\test\test\obj\x86\Debug\test.exe
+C:\Users\Razvan\Desktop\buna\test\test\obj\x86\Debug\test.pdb
+C:\Users\Razvan\Desktop\buna\test\test\bin\Debug\test.exe
+C:\Users\Razvan\Desktop\buna\test\test\bin\Debug\test.pdb
+C:\Users\Razvan\Desktop\buna\test\test\obj\x86\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\Razvan\Desktop\buna\test\test\obj\x86\Debug\test.Cumparare.resources
+C:\Users\Razvan\Desktop\buna\test\test\obj\x86\Debug\test.Form1.resources
+C:\Users\Razvan\Desktop\buna\test\test\obj\x86\Debug\test.Login.resources
+C:\Users\Razvan\Desktop\buna\test\test\obj\x86\Debug\test.Panel.resources
+C:\Users\Razvan\Desktop\buna\test\test\obj\x86\Debug\test.Properties.Resources.resources
+C:\Users\Razvan\Desktop\buna\test\test\obj\x86\Debug\test.Redactare.resources
+C:\Users\Razvan\Desktop\buna\test\test\obj\x86\Debug\test.Register.resources
+C:\Users\Razvan\Desktop\buna\test\test\obj\x86\Debug\test.csproj.GenerateResource.Cache
+C:\Users\Razvan\Desktop\VariantaFinala_PI\test\test\bin\Debug\test.exe.config
+C:\Users\Razvan\Desktop\VariantaFinala_PI\test\test\obj\x86\Debug\test.exe
+C:\Users\Razvan\Desktop\VariantaFinala_PI\test\test\obj\x86\Debug\test.pdb
